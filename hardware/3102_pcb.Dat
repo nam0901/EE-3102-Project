@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ee3102_sec7_grp1.PrjPCB|ReportField=ProjectFullPath~C:\Data\school_2018_2019\spring_2019\ee3102\ee3102_sec7_group1\hardware\ee3102_sec7_grp1.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [3102_pcb.PcbDoc]|ReportField=ReportTime~6:52:13 PM|ReportField=ReportDate~3/22/2019|ReportField=ReportDateTime~3/22/2019 6:52:13 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~43|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~f9d20811a705ff1992d545d26ed66383b6712b50|ReportField=DataSourceFileName~3102_pcb.PcbDoc|ReportField=DataSourceFullPath~C:\Data\school_2018_2019\spring_2019\ee3102\ee3102_sec7_group1\hardware\3102_pcb.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|C_1210_10uF|CAP CER 10UF 50V 10% X5R 1210|C1, C18|1210_Capacitor|C_1210_10uF|2
+2|CAP 0.1uF 50V X7R|CAP CERM 0.1uF 10% 50V 0805|C2, C3, C19|0805_Capacitor|C_0805_0.1uF_50V_10%|3
+3|CAP 1uF 16V X7R|CAP CERM 1uF 10% 16V 0805|C4, C5, C6, C7, C8, C9, C11, C12, C13, C15, C16|0805_Capacitor|C_0805_1uF_16V_10%|11
+4|CAP 1000pF 50V X7R|CAP CERM 1000pF 10% 50V 0805|C14, C17|0805_Capacitor|C_0805_1000pF_50V_10%|2
+5|D_LED_0805_BLUE|LED 2X1.2MM 470NM BL WTR CLR SMD|D1, D2|0805_BLUE|D_LED_0805_BLUE|2
+6|PROG_HEADER|For Programming the PIC24|J1|PROG_HEADER|PROG_HEADER|1
+7|BNC_CONN|Connector for the noise input signal|J2|BNC_Connector|BNC_CONN|1
+8|PWR_CONN||J3|PJ-063AH|PWR_CONN|1
+9|UART_CONN|Could be either a header or a USB Connector|J4|UART_HEADER|UART_CONN|1
+10|LCD_HEADER|LCD_HEADER|J5|LCD Header|LCD_HEADER|1
+11|R_0805_10K_1%|RES 10K OHM 1/8W 1% 0805 SMD|R1, R2, R8|0805_Resistor|R_0805_10K_1%|3
+12|RES SMD 60.4K OHM 0.1% 1/8W 0805|RES SMD 60.4K OHM 0.1% 1/8W 0805|R3|0805_Resistor|R_0805_60.4K_1%|1
+13|RES SMD 300 OHM 0.5% 1/10W 0805|RES SMD 300 OHM 0.5% 1/10W 0805|R4|0805_Resistor|R_0805_300_0.5%|1
+14|RES SMD 16K OHM 0.5% 1/10W 0805|RES SMD 16K OHM 0.5% 1/10W 0805|R5, R6|0805_Resistor|R_0805_16K_0.5%|2
+15|RES SMD 3.16K OHM 1% 1/8W 0805|RES SMD 3.16K OHM 1% 1/8W 0805|R7|0805_Resistor|RES SMD 3.16K OHM 1% 1/8W 0805|1
+16|R_0805_1K_1%|RES 1K OHM 1/8W 1% 0805 SMD|R9, R10|0805_Resistor|R_0805_1K_1%|2
+17|R_0805_100K_1%|RES 100K OHM 1/8W 1% 0805 SMD|R11, R12|0805_Resistor|R_0805_100K_1%|2
+18|PIC24FJ64GA002-E/SP|General Purpose 16-Bit Flash Microcontroller, 64KB Flash, 8KB SRAM, 28-Pin SPDIP, Extended Temperature|U1|SPDIP300-SP28|CMP-0046-00005-1|1
+19|ADS127L01|ADC|U2|TSQFP50P700X700X105-32N|ADS127L01|1
+20|TPS60400DBVR|IC REG SWTCHD CAP INV 60MA SOT23|U3|TPS60400DBVR|TPS60400DBVR|1
+21|INA128U|Precision, Low Power Instrumentation Amplifier, -40 to 85 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)|U4|D0008A_M|CMP-0992-00017-2|1
+22|LP5907MFX-3.3/NOPB|Ultra-Low-Noise, Low-IQ LDO, 0.25 A, Fixed 3.3 V Output, 2.2 to 5.5 V Input, -40 to 125 degC, 5-Pin SOT-23 (DBV), Green (RoHS & no Sb/Br), Tape and Reel|U5|DBV0005A_L|CMP-2000-07464-1|1
+23|MC33078||U6|8-SOIC|MC33078|1

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Data\school_2018_2019\spring_2019\ee3102\ee3102_sec7_group1\hardware\3102_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=3102_pcb.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=3102_pcb-rectholes.txt|DrillLayers=gtl,gbl
